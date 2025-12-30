@@ -115,7 +115,7 @@ if __name__ == "__main__":
     # Example: Translate text
     example_text = "Hello, how are you today? I hope you're having a great day!"
     
-    query = f"Translate this to Spanish: {example_text}"
+    query = f"Translate this to Hindi: {example_text}"
     print(f"Query: Translate this to Spanish\n")
     
     # Invoke the agent graph
